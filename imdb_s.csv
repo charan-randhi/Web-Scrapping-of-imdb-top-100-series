@@ -1,0 +1,101 @@
+Name,Startyear,EndYear,Runtime,Genre1,rating,votes
+Game of Thrones,2011,2019,57 min,Action,9.3,1801923
+Breaking Bad,2008,2013,49 min,Crime,9.5,1501146
+The Walking Dead,2010,2022,44 min,Drama,8.2,867638
+Stranger Things,2016, ,51 min,Drama,8.7,847224
+Sherlock,2010,2017,88 min,Crime,9.1,821245
+The Big Bang Theory,2007,2019,22 min,Comedy,8.1,732020
+Dexter,2006,2021,53 min,Crime,8.6,653271
+How I Met Your Mother,2005,2014,22 min,Comedy,8.3,612152
+True Detective,2014,2019,55 min,Crime,8.9,506707
+Lost,2004,2010,44 min,Adventure,8.3,502873
+Prison Break,2005,2017,44 min,Action,8.3,483423
+House of Cards,2013,2018,51 min,Drama,8.7,471083
+Black Mirror,2011, ,60 min,Drama,8.8,455741
+Vikings,2013,2020,44 min,Action,8.5,445065
+Westworld,2016, ,62 min,Drama,8.6,435329
+The Office,2005,2013,22 min,Comedy,8.9,431169
+House M.D.,2004,2012,44 min,Drama,8.7,419636
+Arrow,2012,2020,42 min,Action,7.5,410759
+Supernatural,2005,2020,44 min,Drama,8.4,397238
+Rick and Morty,2013, ,23 min,Animation,9.2,387293
+Suits,2011,2019,44 min,Comedy,8.5,368564
+Peaky Blinders,2013, ,60 min,Crime,8.8,368269
+Daredevil,2015,2018,54 min,Action,8.6,367644
+Narcos,2015,2017,49 min,Biography,8.8,365862
+Modern Family,2009,2020,22 min,Comedy,8.4,365783
+Mr. Robot,2015,2019,49 min,Crime,8.5,339098
+South Park,1997, ,22 min,Animation,8.7,335405
+Better Call Saul,2015,2021,46 min,Crime,8.7,334931
+Fargo,2014, ,53 min,Crime,8.9,333688
+Homeland,2011,2020,55 min,Crime,8.3,318215
+La casa de papel,2017, ,70 min,Action,8.3,316766
+The Mandalorian,2019, ,40 min,Action,8.8,314540
+The Witcher,2019, ,60 min,Action,8.2,312883
+The Flash,2014, ,43 min,Action,7.7,311205
+The Sopranos,1999,2007,55 min,Crime,9.2,310556
+Family Guy,1999, ,22 min,Animation,8.1,308298
+Dark,2017,2020,60 min,Crime,8.8,296696
+The Wire,2002,2008,59 min,Crime,9.3,290884
+The Vampire Diaries,2009,2017,43 min,Drama,7.7,287707
+Orange Is the New Black,2013,2019,59 min,Comedy,8.1,281275
+American Horror Story,2011, ,60 min,Drama,8.0,280724
+Arrested Development,2003,2019,22 min,Comedy,8.7,279933
+The Boys,2019, ,60 min,Action,8.7,265541
+Sons of Anarchy,2008,2014,45 min,Crime,8.5,264884
+13 Reasons Why,2017,2020,60 min,Drama,7.6,260141
+Grey's Anatomy,2005, ,41 min,Drama,7.6,257603
+Avatar: The Last Airbender,2005,2008,23 min,Animation,9.2,255712
+Death Note: Desu nôto,2006,2007,24 min,Animation,9.0,249366
+Firefly,2002,2003,44 min,Adventure,9.0,246244
+Two and a Half Men,2003,2015,22 min,Comedy,7.0,243711
+Lucifer,2016, ,42 min,Crime,8.1,241566
+Scrubs,2001,2010,22 min,Comedy,8.3,239199
+Brooklyn Nine-Nine,2013,2022,22 min,Comedy,8.4,236395
+Hannibal,2013,2015,44 min,Crime,8.5,231847
+True Blood,2008,2014,55 min,Drama,7.8,230593
+Heroes,II) (2006,2010,45 min,Drama,7.5,230563
+Spartacus: Blood and Sand,2010,2013,55 min,Action,8.5,225716
+Mindhunter,2017,2019,60 min,Crime,8.6,225350
+Community,2009,2015,22 min,Comedy,8.5,224340
+Shingeki no kyojin,2013,2021,24 min,Animation,8.9,224158
+Fringe,2008,2013,46 min,Drama,8.4,222750
+The 100,2014,2020,43 min,Drama,7.6,221110
+Parks and Recreation,2009,2020,22 min,Comedy,8.6,219742
+Futurama,1999,2013,22 min,Animation,8.4,215065
+Gotham,2014,2019,42 min,Action,7.8,213844
+Mad Men,2007,2015,47 min,Drama,8.6,211434
+Once Upon a Time,2011,2018,60 min,Adventure,7.7,210206
+Shameless,2011,2021,46 min,Comedy,8.6,208829
+The Blacklist,2013, ,43 min,Crime,8.0,203818
+Agents of S.H.I.E.L.D.,2013,2020,45 min,Action,7.5,202462
+Doctor Who,2005, ,45 min,Adventure,8.6,201873
+Ozark,2017, ,60 min,Crime,8.4,196538
+New Girl,2011,2018,22 min,Comedy,7.7,195881
+Jessica Jones,2015,2019,56 min,Action,7.9,195158
+It's Always Sunny in Philadelphia,2005, ,22 min,Comedy,8.8,192976
+The Punisher,2017,2019,53 min,Action,8.5,188718
+The Handmaid's Tale,2017, ,60 min,Drama,8.4,179293
+Boardwalk Empire,2010,2014,55 min,Crime,8.5,174112
+24,2001,2010,44 min,Action,8.3,173792
+Californication,2007,2014,28 min,Comedy,8.3,172627
+The Mentalist,2008,2015,43 min,Crime,8.1,167544
+Downton Abbey,2010,2015,58 min,Drama,8.7,166541
+Sex Education,2019, ,45 min,Comedy,8.3,166029
+Criminal Minds,2005,2020,42 min,Crime,8.1,165406
+Person of Interest,2011,2016,43 min,Action,8.4,164710
+Big Little Lies,2017,2019,60 min,Crime,8.5,161823
+The Crown,2016, ,58 min,Biography,8.7,161489
+Entourage,2004,2011,28 min,Comedy,8.4,159340
+Rome,2005,2007,52 min,Action,8.7,156992
+Gossip Girl,2007,2012,42 min,Drama,7.4,156482
+That '70s Show,1998,2006,22 min,Comedy,8.1,155713
+Battlestar Galactica,2004,2009,44 min,Action,8.7,154375
+Pretty Little Liars,2010,2017,44 min,Drama,7.4,153938
+The End of the F***ing World,2017,2019,25 min,Adventure,8.1,151161
+You,2018, ,45 min,Crime,7.7,149839
+Altered Carbon,2018,2020,60 min,Action,8.0,145492
+Castle,2009,2016,43 min,Comedy,8.1,141982
+Bones,2005,2017,40 min,Comedy,7.8,141714
+Sense8,2015,2018,60 min,Drama,8.3,141518
+Archer,2009, ,22 min,Animation,8.6,139422
